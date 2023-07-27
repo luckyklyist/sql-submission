@@ -12,6 +12,32 @@
             "group": "ISA",
             "username": "root",
             "database": "isa"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "bookstore",
+            "group": "bookstore",
+            "database": "Bookstore",
+            "username": "root"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "university",
+            "group": "uni",
+            "database": "university",
+            "username": "root"
         }
     ]
 }
